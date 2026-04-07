@@ -1,1 +1,3 @@
 # 8.-Breast-Cancer-Wisconsin-Original-UCI
+
+El dataset Breast Cancer Wisconsin (Original) es un conjunto de datos clásico de clasificación en el ámbito médico que contiene 699 registros de muestras de tejido mamario recopiladas por el Dr. William Wolberg, donde cada instancia está descrita mediante 9 atributos numéricos (con valores entre 1 y 10) que representan características celulares como tamaño, forma y adherencia, además de un identificador; la variable objetivo indica si el tumor es benigno o maligno (clasificación binaria), y el dataset incluye algunos valores faltantes, siendo ampliamente utilizado como benchmark en aprendizaje automático para evaluar modelos de diagnóstico y clasificación en problemas de salud.
